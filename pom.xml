@@ -19,7 +19,7 @@
 	<version>3.1.2</version>
 	<packaging>jar</packaging>
 	<name>WSO2 Carbon - Mediation Library Connector For kafkaTransport</name>
-	<url>http://wso2.org</url>
+	<url>https://wso2.org</url>
 
 	<properties>
 		<connector.name>kafkaTransport</connector.name>
@@ -510,7 +510,7 @@
 		<repository>
 			<id>wso2-nexus</id>
 			<name>WSO2 internal Repository</name>
-			<url>http://maven.wso2.org/nexus/content/groups/wso2-public/</url>
+			<url>https://maven.wso2.org/nexus/content/groups/wso2-public/</url>
 			<releases>
 				<enabled>true</enabled>
 				<updatePolicy>daily</updatePolicy>
